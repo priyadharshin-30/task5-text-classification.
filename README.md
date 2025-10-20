@@ -1,4 +1,4 @@
-# task5-text-classification.
+# task5-text-classification
 Task 5 - Consumer Complaint Text Classification
 
 Objective
