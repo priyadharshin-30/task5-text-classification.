@@ -1,0 +1,8 @@
+The python Libraries used in the code are:
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+seaborn
+joblib
